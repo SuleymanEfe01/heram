@@ -1,0 +1,36 @@
+{
+  "mute": [
+    {
+      "guild": "810964143565176903",
+      "guild_name": "Bot Deneme",
+      "user": "793431254162472990",
+      "user_name": "Kartal",
+      "staff": "720187672362090547",
+      "staff_username": "♮ Zeynal05",
+      "channel": "818726618200670248",
+      "channel_name": "💬︲sohbet",
+      "reason": "No Reason Given",
+      "time": "INFINITY",
+      "finishtime": "INFINITY"
+    },
+    {
+      "guild": "804678230001844224",
+      "guild_name": "Türkiyem Altay Gaming #YeniSezon",
+      "user": "451287689866510346",
+      "user_name": "CemMetin",
+      "staff": "767862617527418920",
+      "staff_username": "MevlütBulut",
+      "channel": "811619040975388702",
+      "channel_name": "『📰』genel-sohbet",
+      "reason": "No Reason Given",
+      "time": "INFINITY",
+      "finishtime": "INFINITY"
+    }
+  ],
+  "ban": [],
+  "kufurEngel": [],
+  "autorole": [],
+  "reklamEngel": [],
+  "security": [],
+  "counter": []
+}
